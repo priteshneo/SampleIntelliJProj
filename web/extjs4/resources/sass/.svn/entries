@@ -1,0 +1,98 @@
+10
+
+dir
+0
+https://github.com/priteshneo/SampleIntelliJProj.git/web/extjs4/resources/sass
+https://github.com/priteshneo/SampleIntelliJProj.git
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+83c5741e-053d-fe44-d371-ce57b7db7bff
+
+config.rb
+file
+
+
+
+add
+
+ext-all-access.scss
+file
+
+
+
+add
+
+ext-all-gray.scss
+file
+
+
+
+add
+
+ext-all-scoped.scss
+file
+
+
+
+add
+
+ext-all.scss
+file
+
+
+
+add
+
+ext-ie-scoped.scss
+file
+
+
+
+add
+
+ext-ie.scss
+file
+
+
+
+add
+
+ext-sandbox.scss
+file
+
+
+
+add
+
+ext-standard-scoped.scss
+file
+
+
+
+add
+
+ext-standard.scss
+file
+
+
+
+add
+

@@ -1,0 +1,105 @@
+10
+
+dir
+0
+https://github.com/priteshneo/SampleIntelliJProj.git/SampleProject/.idea
+https://github.com/priteshneo/SampleIntelliJProj.git
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+83c5741e-053d-fe44-d371-ce57b7db7bff
+
+.name
+file
+
+
+
+add
+
+compiler.xml
+file
+
+
+
+add
+
+copyright
+dir
+
+
+
+add
+
+encodings.xml
+file
+
+
+
+add
+
+inspectionProfiles
+dir
+
+
+
+add
+
+misc.xml
+file
+
+
+
+add
+
+modules.xml
+file
+
+
+
+add
+
+scopes
+dir
+
+
+
+add
+
+uiDesigner.xml
+file
+
+
+
+add
+
+vcs.xml
+file
+
+
+
+add
+
+workspace.xml
+file
+
+
+
+add
+

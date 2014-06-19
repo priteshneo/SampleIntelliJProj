@@ -1,0 +1,49 @@
+10
+
+dir
+0
+https://github.com/priteshneo/SampleIntelliJProj.git/web/extjs4/resources/themes/images
+https://github.com/priteshneo/SampleIntelliJProj.git
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+83c5741e-053d-fe44-d371-ce57b7db7bff
+
+access
+dir
+
+
+
+add
+
+default
+dir
+
+
+
+add
+
+gray
+dir
+
+
+
+add
+

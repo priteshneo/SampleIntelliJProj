@@ -1,0 +1,70 @@
+10
+
+dir
+0
+https://github.com/priteshneo/SampleIntelliJProj.git/web/extjs4/resources/themes/stylesheets/ext4/default/mixins
+https://github.com/priteshneo/SampleIntelliJProj.git
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+83c5741e-053d-fe44-d371-ce57b7db7bff
+
+_background-gradient.scss
+file
+
+
+
+add
+
+_color-by-background.scss
+file
+
+
+
+add
+
+_frame.scss
+file
+
+
+
+add
+
+_inner-border.scss
+file
+
+
+
+add
+
+_reset-extras.scss
+file
+
+
+
+add
+
+_theme-background-image.scss
+file
+
+
+
+add
+
